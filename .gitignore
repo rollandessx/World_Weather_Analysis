@@ -9,6 +9,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+config.py
+Vacation_Search/config.py
 develop-eggs/
 dist/
 downloads/
